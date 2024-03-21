@@ -1,8 +1,8 @@
 jogadores = []
 
+
 prof_salario = {
     "medico" : 50000.0,
-    
 }
 
 def nome_jogadores(qtd_jogador):
